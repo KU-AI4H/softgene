@@ -2,7 +2,7 @@
 
 **SoftGene** is a framework for LLM-based gene set annotation that grounds language model generation in protein sequence structure. A hierarchical attention encoder aggregates ESM-2 protein embeddings at the isoform, gene, and gene set levels, and projects the resulting representation into soft prompt tokens that condition a frozen local LLM alongside LLM-generated auxiliary context.
 
-> Paper: *SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation* (under review)
+> Paper: *SoftGene: Protein Language Model-Enhanced Soft Prompting for Interpretable Gene Set Annotation* (EMNLP 2026 Main Conference)
 
 ## Installation
 
